@@ -89,7 +89,7 @@ Ken Youen-Clark
 
 ----  
 
-## [Peak Fitness]
+## Peak Fitness
 
 ### Repo
 [peak-fitness](https://github.com/jklynch/peak-fitness)
