@@ -34,8 +34,7 @@ An interactive 2-player game, implemented using PyGame, where you get to make th
 Jessen Bredeson
 
 ### Summary
-
-
+The objective of this project is to design primer pairs that specifically includes or excludes mismatches across a group of sequences, e.g. (same gene different species, same gene different isoforms, different genes in the same family).
   
 ----  
 
@@ -110,19 +109,20 @@ You have five guesses to find the peak of a protein fitness landscape.
 
 ----  
 
-## [Project Name]
+## In Silico Southern Blot Tool
 
 ### Repo
-[Repo Name](path)
+[In Silico Southern Blot Tool](https://github.com/cherman62/PFB2025_project)
 
 ### Participants
-- [Participant]
-- [Participant]
-- [Participant]
-- [Participant]
+- Sara Pini
+- Pia-Yael Hartig
+- Pauline DiGianivittorio
+- Calvin Herman
 
 ### TA
 Eric Ross
   
 ### Summary
+Southern blot is a technique used to detect target DNA. The in silico southern blot tool facilitates the user's southern blot experiment by visualizing probe binding to DNA sample cleaved by restriction enzyme(s) of choice.
 
